@@ -2,4 +2,4 @@
 
 ### SQL
 
-  - [Create a Table](http://bit.ly/2sj3XpJ)
+  - [Create a Table](https://github.com/sebamacchia/python-datascience-cookbook/blob/master/SQL/Create-A-Table.ipynb)
