@@ -6,4 +6,4 @@
   
 ### Linear algebra
 
-  - [Linear algebra](https://github.com/sebamacchia/deepLearningBook-Notes)
+  - [Linear algebra](https://github.com/sebamacchia/deepLearningBook-Notes){:target="_blank" rel="noopener"}
